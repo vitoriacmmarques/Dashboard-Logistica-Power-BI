@@ -2,7 +2,10 @@
 
 Este repositório apresenta um projeto em Power BI voltado para análise de desempenho logístico em processos de importação. O objetivo é transformar dados brutos em visualizações claras que possibilitem o monitoramento de pedidos internacionais, status logístico e tempo de entrega por país.
 
-![Demonstração do dashboard](assets/Dashboard%20Logistica.gif)
+<p>
+  <img src="./assets/Dashboard%20Logistica.gif" alt="Demonstração do Dashboard" width="800"/>
+</p>
+
 
 ## Objetivo do Projeto
 
